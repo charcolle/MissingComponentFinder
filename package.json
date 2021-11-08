@@ -1,0 +1,14 @@
+{
+	"name": "com.charcolle.missingcomponentfinder",
+	"displayName": "Missing Component Finder",
+	"version": "1.0.0",
+	"unity": "2019.3",
+	"description": "Find and Remove the Components which has been missing.",
+	"keywords": [
+		"editorextensions",
+		"utilities",
+		"missing component"
+	],
+	"category": "editorextensions",
+	"dependencies": {}
+}
